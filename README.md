@@ -21,6 +21,10 @@ VB.NET COM-visible class library whose `Hello` ComClass exposes `HelloWorld(strN
 
 Open `DOTNETCOM.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2005
+
 ## Attribution and provenance
 
 - **Assembly copyright:** Copyright ©  2007
